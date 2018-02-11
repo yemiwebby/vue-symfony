@@ -1,6 +1,9 @@
 {
     "devDependencies": {
-        "@symfony/webpack-encore": "^0.17.0"
+        "@symfony/webpack-encore": "^0.17.0",
+        "vue": "^2.5.13",
+        "vue-loader": "^14.1.1",
+        "vue-template-compiler": "^2.5.13"
     },
     "license": "UNLICENSED",
     "private": true,
